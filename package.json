@@ -4,10 +4,9 @@
   "description": "Ejercicios 3, 4 y 5 de la semana 3 de LaunchX (Backend)",
   "main": "index.js",
   "directories": {
-    "test": "test"
   },
   "scripts": {
-    "test": "npm ./node_modules/.bin/jest"
+    "test": "node ./node_modules/.bin/jest"
   },
   "repository": {
     "type": "git",
@@ -18,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ralexgc/twitter/issues"
   },
-  "homepage": "https://github.com/ralexgc/twitter#readme"
+  "homepage": "https://github.com/ralexgc/twitter#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
