@@ -1,0 +1,22 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "Ejercicios 3, 4 y 5 de la semana 3 de LaunchX (Backend)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm ./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralexgc/twitter.git"
+  },
+  "author": "Ramón Alejandro Gutiérrez Calleja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralexgc/twitter/issues"
+  },
+  "homepage": "https://github.com/ralexgc/twitter#readme"
+}
